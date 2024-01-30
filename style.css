@@ -3,3 +3,9 @@ body {
     background-size: 100vw;
 
 }
+
+.canvas-sizing {
+    width: 100vw;
+    height: 80vh;
+
+}
